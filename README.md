@@ -4,7 +4,8 @@
 This project showcases my ability to work with real-world retail transaction data using SQL.  
 I performed end-to-end analysis involving data exploration, sales insights, customer segmentation, time-based trends, and advanced business intelligence queries.
 
-📄 **Full SQL Script:** `walmart_sales_analysis.sql`
+📄 **Full SQL Script:** [📄 walmart_sales_analysis.sql](./walmart_sales_analysis.sql)
+
 
 ---
 
@@ -123,7 +124,7 @@ HAVING SUM(total) > 1000;
 
 ## 📂 File Included
 
-- **`walmart_sales_analysis.sql`** — contains all 20 business queries + schema creation  
+- **`(./walmart_sales_analysis.sql)`** — contains all 20 business queries + schema creation  
 
 ---
 
