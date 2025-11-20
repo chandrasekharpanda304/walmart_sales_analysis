@@ -124,7 +124,9 @@ HAVING SUM(total) > 1000;
 
 ## 📂 File Included
 
-- **`(./walmart_sales_analysis.sql)`** — contains all 20 business queries + schema creation  
+- **[📄 walmart_sales_analysis.sql](./walmart_sales_analysis.sql)** — contains all 20 business queries + schema creation
+- **[📂 walmart_sales.csv](./walmart_sales.csv.csv)** — raw csv file
+
 
 ---
 
@@ -153,7 +155,7 @@ Useful for roles like:
 ## 📬 Connect With Me
 ## 📜 Author
 
-**👤 Chandrasekhar Panda**
+**👤 Chandrasekhar Panda**\
 💼 MBA Business Analytics | Passionate about Data Analytics, SQL Development & Business Intelligence\
 📧 [chandrasekharpanda304@gmail.com](mailto:chandrasekharpanda304@gmail.com)\
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/chandrasekharpanda)
