@@ -125,7 +125,7 @@ HAVING SUM(total) > 1000;
 ## 📂 File Included
 
 - **[📄 walmart_sales_analysis.sql](./walmart_sales_analysis.sql)** — contains all 20 business queries + schema creation
-- **[📂 walmart_sales.csv](./walmart_sales.csv.csv)** — raw csv file
+- **[📂 walmart_sales_csv](./walmart_sales_csv.csv)** — raw csv file
 
 
 ---
